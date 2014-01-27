@@ -1,0 +1,17 @@
+TAX REVENUE FOR THE TOWN OF CAMELOT
+
+BUILDING STREET TAXES
+    1111    School    $2,243.20
+    2222    Main    $501.50
+    2224    Main    $3,763.50
+    2225    Main    $0.00
+    2345    School    $2,850.00
+    2498    School    $1,625.00
+    3333    Spring    $2,400.00
+    4444    Main    $5,257.50
+
+Total Taxes: $18,640.70
+Total Number of houses: 3
+Total Number of stores: 2
+Total Number of churches and schools: 1
+Total Number of other buildings: 2

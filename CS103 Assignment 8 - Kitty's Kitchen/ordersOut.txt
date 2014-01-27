@@ -1,0 +1,22 @@
+Order #: 1001
+Customer #: 101  Brown, Bobby
+Purchase amount: $525.55
+Discount: 0% $0.00
+Tax: 6%  $31.53
+Final cost: $557.08
+
+Order #: 1002
+Customer #: 102  Normal, Abby
+Purchase amount: $87.88
+Discount: 0% $0.00
+Tax: 6%  $5.27
+Final cost: $93.15
+
+Order #: 1003
+Customer #: 101  Brown, Bobby
+Purchase amount: $115.50
+Discount: 5% $5.78
+Tax: 6%  $6.58
+Final cost: $116.31
+
+

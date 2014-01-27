@@ -1,0 +1,5 @@
+Lauren,Smith,A,B,C,A,B,C
+Bobby,Brown,A,C,C,B,B,C
+Betty,Jones,C,B,C,A,C,C
+Felicity,Mammot,B,B,D,A,B,C
+Eric,Epstein,B,B,C,A,B,A
